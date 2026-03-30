@@ -32,7 +32,8 @@
 <div align="center">
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/1a0000/ff0000?text=Pegasus+RugPull+Dashboard)
+
+<img width="1000" height="755" alt="Screenshot 2026-02-22 062306" src="https://github.com/user-attachments/assets/767a7c4f-5514-46d5-baff-63dc5fc5c8c5" />
 
 </div>
 
