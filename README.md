@@ -6,6 +6,10 @@
 
 ### Advanced Crypto Scam Detection & RugPull Analysis Framework
 
+<div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
+
 [![Version](https://img.shields.io/badge/version-1.0-red.svg)](https://github.com/yourusername/pegasus-rugpull)
 [![Python](https://img.shields.io/badge/python-3.8%2B-darkred.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-maroon.svg)](LICENSE)
